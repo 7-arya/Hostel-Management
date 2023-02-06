@@ -7,6 +7,7 @@
  *
  * @author ANITTA
  */
+package hostel;
 import javax.swing.*;
 import java.sql.*;
 import Project.ConnectionProvider;

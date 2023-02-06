@@ -7,6 +7,7 @@
  *
  * @author ANITTA
  */
+package hostel;
 import java.sql.*;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
