@@ -22,7 +22,7 @@ The goal of this project is to develop a system for the computerization of the H
 
 
 
-#FUNCTIONAL REQUIREMENTS
+# FUNCTIONAL REQUIREMENTS
 ## + Student Login:
 - Students can log into the system using their unique credentials.
 - Students can apply for leave by filling out a form with their name, the reason for leave, the start date, and the end date.
@@ -38,9 +38,10 @@ The goal of this project is to develop a system for the computerization of the H
 ## + User Interface:
 - The user interface of the Java Hostel Management System is built using Java Swing components. The interface is user-friendly and intuitive, making it easy for students and administrators to use the system.
 
-#BACKGROUND
+# BACKGROUND
 Frontend technologies and Frameworks:
-- Java swing.
+- Java swing
+
 Backend technologies:
 - JDBC
 - SQL
